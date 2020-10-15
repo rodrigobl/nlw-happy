@@ -7,6 +7,8 @@ Estudo da semana Next Level Week - Trilha Omnistack - Projeto Happy
 - Backend
 - Mobile
 
+Tecnologias:
+
 - Node.js
 - React
 - React-Native
