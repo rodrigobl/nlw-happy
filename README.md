@@ -1,1 +1,12 @@
-# nlw-happy
+# Next Level Week #3 - Projeto Happy
+
+12-16 de outubro de 2020
+
+Estudo da semana Next Level Week - Trilha Omnistack - Projeto Happy
+- Fronend 
+- Backend
+- Mobile
+
+- Node.js
+- React
+- React-Native
